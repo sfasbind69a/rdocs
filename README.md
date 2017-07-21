@@ -1,2 +1,0 @@
-# rdocs
-R Documentation
